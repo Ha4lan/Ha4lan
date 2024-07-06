@@ -22,4 +22,4 @@
 ![](https://skillicons.dev/icons?i=html,css,js,php,react,express,wordpress,vscode,github)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Ha4lan&show_icons=true&locale=en&layout=compact)
-![Hasilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha4lan)]
+![Hasilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha4lan)
