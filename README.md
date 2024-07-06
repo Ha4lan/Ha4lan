@@ -1,5 +1,5 @@
 # Hi👋, I'm Hasilan
-<p align="center">
+<p>
   <img src="https://hasilan.net/wp-content/uploads/2024/07/icon-v1-e1720276485427.png" />
   <h3 align="center">Hasilan</h3>
   <p align="center">
