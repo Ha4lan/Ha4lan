@@ -12,6 +12,8 @@
   </p>
 </p>
 
+## Abouts
+
 - 🌱 I’m currently learning **React** , **Tailwind**, etc....
 - 📝 I write articles on [https://hasilan.net/posts](https://hasilan.net/posts)
 3. You can find my Website at [Hasilan Net](https://hasilan.net)
