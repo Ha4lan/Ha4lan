@@ -12,8 +12,8 @@
   </p>
 </p>
 
-1. I'm a Twitterer
-2. My favorites are Japanese
+- 🌱 I’m currently learning **React** , **Tailwind**, etc....
+- 📝 I write articles on [https://hasilan.net/posts](https://hasilan.net/posts)
 3. You can find my Website at [Hasilan Net](https://hasilan.net)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Ha4lan&show_icons=true&locale=en&layout=compact)
