@@ -23,3 +23,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Ha4lan&show_icons=true&locale=en&layout=compact)
 ![Hasilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha4lan)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ha4lan)](https://github.com/ryo-ma/github-profile-trophy)
