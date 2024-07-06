@@ -26,3 +26,4 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha4lan&layout=compact&count_private=true&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ha4lan&count_private=true&show_icons=true&show_icons=true" />
 </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ha4lan&theme=default)
