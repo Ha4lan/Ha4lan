@@ -9,3 +9,5 @@
 ![](https://skillicons.dev/icons?i=html,css,js,php)
 ## Frameworks and Library
 ![](https://skillicons.dev/icons?i=react,express,wordpress)
+## DB and Dev Tools etc
+![](https://skillicons.dev/icons?i=vscode)
