@@ -1,5 +1,16 @@
 # Hi👋, I'm Hasilan
-### console.print('Hello, World!')
+<p align="center">
+  <img src="https://hasilan.net/wp-content/uploads/2024/06/cropped-icon-v1.png" />
+  <h3 align="center">Hasilan</h3>
+  <p align="center">
+  twitterer
+  <br>
+  <br>
+  <a href="https://x.com/Ha4lan">Twitter</a>
+  ・
+  <a href="https://hasilan.net/">Website</a>
+  </p>
+</p>
 1. I'm a Twitterer
 2. My favorites are Japanese
 3. You can find my Website at [Hasilan Net](https://hasilan.net)
