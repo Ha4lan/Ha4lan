@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React** , **Tailwind**, etc....
 - 📝 I write articles on [https://hasilan.net/posts](https://hasilan.net/posts)
-3. You can find my Website at [Hasilan Net](https://hasilan.net)
+- 🌐 You can find my Website at [Hasilan Net](https://hasilan.net)
 
 ### Languages and Tools
 ![](https://skillicons.dev/icons?i=html,css,js,php,react,express,wordpress,vscode,github)
