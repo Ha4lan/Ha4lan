@@ -20,7 +20,8 @@
 - 🌐 You can find my Website at [Hasilan Net](https://hasilan.net)
 
 ### Languages and Tools
-![](https://skillicons.dev/icons?i=html,css,js,php,react,express,wordpress,vscode,github)
+<!-- ![](https://skillicons.dev/icons?i=html,css,js,php,react,express,wordpress,vscode,github) -->
+![](https://skillicons.dev/icons?i=all)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha4lan&layout=compact&count_private=true&show_icons=true" />
